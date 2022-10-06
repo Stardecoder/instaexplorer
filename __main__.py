@@ -1,7 +1,7 @@
 import instaloader
 
-username = "dean_waves"
-password = "Nedjmeddine1988!"
+username = "username"
+password = "password"
 
 
 L = instaloader.Instaloader()
